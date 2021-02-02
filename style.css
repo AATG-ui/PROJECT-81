@@ -1,0 +1,21 @@
+body_background {
+    background-image:
+      url("photo-1595663823598-931cd6b854fe.jfif");
+    background-position: center#
+    background-size: cover;
+  }
+  
+  h1 {
+    color: 0D47A1;
+    font-size: 40px;
+  }
+  
+  #myCanvas {
+    border-width: 10px;
+    background-color: #FFFDE7;
+    border-style: ridge;
+  }
+  
+  span {
+    font-size: 20px;
+  }
